@@ -2,6 +2,8 @@
 
 This repository contains the files and scripts used for managing and querying the **Little Lemon** database. The project demonstrates how to retrieve and manipulate customer and order data using SQL and Python, as well as managing various booking and order procedures through stored procedures and views. Additionally, it includes interactive Tableau dashboards for data visualization.
 
+You can view the dashboard here: [Customer Orders and Restaurant Management](https://public.tableau.com/app/profile/aditi1877/viz/CustomerOrdersandRestaurantManagement/CustomerDashboard)
+
 ## Project Overview
 
 The project involves querying a MySQL database to extract customer and order information, working with multiple tables such as `customer`, `orders`, `bookings`, `menu`, and `staff`. The project features procedures for handling bookings, updating records, and managing transactions. The data is accessed and manipulated using both SQL scripts and a Python script for database interaction. Furthermore, Tableau dashboards are included to visualize key insights from the data.
